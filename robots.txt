@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ssx-bwa-xqza-6660.github.io/doc-share/sitemap.xml
